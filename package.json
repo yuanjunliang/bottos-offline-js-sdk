@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/yuanjunliang/bottos-offline-js-sdk/issues"
   },
-  "homepage": "https://github.com/yuanjunliang/bottos-offline-js-sdk#readme"
+  "homepage": "https://github.com/yuanjunliang/bottos-offline-js-sdk#readme",
+  "dependencies": {
+    "bottos-js-crypto": "^1.0.15",
+    "node-fetch": "^2.3.0"
+  }
 }
